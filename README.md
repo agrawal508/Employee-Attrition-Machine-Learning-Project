@@ -2,7 +2,7 @@
 
 An AI-powered web application that predicts the likelihood of an employee leaving the company based on various HR metrics. This tool helps HR departments retain talent by proactively identifying high-risk employees.
 
-![image alt]([https://github.com/agrawal508/Employee-Attrition-Machine-Learning-Project/blob/42c426a9bc1272527f145fc80fd0c04030beb32a/Front_page.png))
+![image alt](https://github.com/agrawal508/Employee-Attrition-Machine-Learning-Project/blob/42c426a9bc1272527f145fc80fd0c04030beb32a/Front_page.png)
 
 ---
 
