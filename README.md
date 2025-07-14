@@ -47,3 +47,4 @@ An AI-powered web application that predicts the likelihood of an employee leavin
   - streamlit run app.py
 
 
+![image alt](https://github.com/agrawal508/Employee-Attrition-Machine-Learning-Project/blob/40f1430d7bd8bf7306a5de5e173c8a72b4030baf/output.png)
